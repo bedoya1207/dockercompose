@@ -1,0 +1,7 @@
+edu\ec\ups\BackEnd\model\Comida.class
+edu\ec\ups\BackEnd\service\Mensaje.class
+edu\ec\ups\BackEnd\service\ComidasWSRestful.class
+edu\ec\ups\BackEnd\DAO\ComidasDAO.class
+edu\ec\ups\BackEnd\Jsf23Activator.class
+edu\ec\ups\BackEnd\service\ApplicationPathWS.class
+edu\ec\ups\BackEnd\util\CORSFilter.class
